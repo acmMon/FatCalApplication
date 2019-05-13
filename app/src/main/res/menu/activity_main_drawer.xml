@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home_screen"
+            android:title="Home Screen" />
+        <item
+            android:id="@+id/nav_daily_diet"
+            android:title="My Daily Diet" />
+        <item
+            android:id="@+id/nav_steps_screen"
+            android:title="Steps Screen" />
+        <item
+            android:id="@+id/nav_cal_tracker"
+            android:title="Calorie Tracker" />
+        <item
+            android:id="@+id/nav_report"
+            android:title="My Report" />
+        <item
+            android:id="@+id/nav_map"
+            android:title="Find Parks" />
+
+    </group>
+</menu>
